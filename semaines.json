@@ -1,0 +1,1854 @@
+{
+  "format" : 1,
+  "miseAJour" : "2026-10-11",
+  "semaines" : [
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 38,
+            "chapitreFin" : 38,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 5
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 38,
+            "chapitreFin" : 38,
+            "livre" : 24,
+            "versetDebut" : 6,
+            "versetFin" : 11
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 38,
+            "chapitreFin" : 38,
+            "livre" : 24,
+            "versetDebut" : 12,
+            "versetFin" : 17
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 38,
+            "chapitreFin" : 38,
+            "livre" : 24,
+            "versetDebut" : 18,
+            "versetFin" : 22
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 38,
+            "chapitreFin" : 38,
+            "livre" : 24,
+            "versetDebut" : 23,
+            "versetFin" : 28
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 39,
+            "chapitreFin" : 39,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 9
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 39,
+            "chapitreFin" : 39,
+            "livre" : 24,
+            "versetDebut" : 10,
+            "versetFin" : 18
+          },
+          "versets" : 9
+        }
+      ],
+      "livre" : "Jérémie",
+      "lundi" : "2026-09-28",
+      "plage" : {
+        "chapitreDebut" : 38,
+        "chapitreFin" : 39,
+        "livre" : 24,
+        "versetDebut" : 1,
+        "versetFin" : 18
+      },
+      "titre" : "Jérémie 38-39"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 40,
+            "chapitreFin" : 40,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 4
+          },
+          "versets" : 4
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 40,
+            "chapitreFin" : 40,
+            "livre" : 24,
+            "versetDebut" : 5,
+            "versetFin" : 8
+          },
+          "versets" : 4
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 40,
+            "chapitreFin" : 40,
+            "livre" : 24,
+            "versetDebut" : 9,
+            "versetFin" : 11
+          },
+          "versets" : 3
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 40,
+            "chapitreFin" : 40,
+            "livre" : 24,
+            "versetDebut" : 12,
+            "versetFin" : 16
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 41,
+            "chapitreFin" : 41,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 6
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 41,
+            "chapitreFin" : 41,
+            "livre" : 24,
+            "versetDebut" : 7,
+            "versetFin" : 11
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 41,
+            "chapitreFin" : 41,
+            "livre" : 24,
+            "versetDebut" : 12,
+            "versetFin" : 18
+          },
+          "versets" : 7
+        }
+      ],
+      "livre" : "Jérémie",
+      "lundi" : "2026-10-05",
+      "plage" : {
+        "chapitreDebut" : 40,
+        "chapitreFin" : 41,
+        "livre" : 24,
+        "versetDebut" : 1,
+        "versetFin" : 18
+      },
+      "titre" : "Jérémie 40-41"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 42,
+            "chapitreFin" : 42,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 12
+          },
+          "versets" : 12
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 42,
+            "chapitreFin" : 42,
+            "livre" : 24,
+            "versetDebut" : 13,
+            "versetFin" : 22
+          },
+          "versets" : 10
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 43,
+            "chapitreFin" : 43,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 13
+          },
+          "versets" : 13
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 44,
+            "chapitreFin" : 44,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 9
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 44,
+            "chapitreFin" : 44,
+            "livre" : 24,
+            "versetDebut" : 10,
+            "versetFin" : 17
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 44,
+            "chapitreFin" : 44,
+            "livre" : 24,
+            "versetDebut" : 18,
+            "versetFin" : 24
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 44,
+            "chapitreFin" : 44,
+            "livre" : 24,
+            "versetDebut" : 25,
+            "versetFin" : 30
+          },
+          "versets" : 6
+        }
+      ],
+      "livre" : "Jérémie",
+      "lundi" : "2026-10-12",
+      "plage" : {
+        "chapitreDebut" : 42,
+        "chapitreFin" : 44,
+        "livre" : 24,
+        "versetDebut" : 1,
+        "versetFin" : 30
+      },
+      "titre" : "Jérémie 42-44"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 45,
+            "chapitreFin" : 45,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 5
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 46,
+            "chapitreFin" : 46,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 5
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 46,
+            "chapitreFin" : 46,
+            "livre" : 24,
+            "versetDebut" : 6,
+            "versetFin" : 10
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 46,
+            "chapitreFin" : 46,
+            "livre" : 24,
+            "versetDebut" : 11,
+            "versetFin" : 15
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 46,
+            "chapitreFin" : 46,
+            "livre" : 24,
+            "versetDebut" : 16,
+            "versetFin" : 20
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 46,
+            "chapitreFin" : 46,
+            "livre" : 24,
+            "versetDebut" : 21,
+            "versetFin" : 25
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 46,
+            "chapitreFin" : 46,
+            "livre" : 24,
+            "versetDebut" : 26,
+            "versetFin" : 28
+          },
+          "versets" : 3
+        }
+      ],
+      "livre" : "Jérémie",
+      "lundi" : "2026-10-19",
+      "plage" : {
+        "chapitreDebut" : 45,
+        "chapitreFin" : 46,
+        "livre" : 24,
+        "versetDebut" : 1,
+        "versetFin" : 28
+      },
+      "titre" : "Jérémie 45-46"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 47,
+            "chapitreFin" : 47,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 7
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 48,
+            "chapitreFin" : 48,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 8
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 48,
+            "chapitreFin" : 48,
+            "livre" : 24,
+            "versetDebut" : 9,
+            "versetFin" : 16
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 48,
+            "chapitreFin" : 48,
+            "livre" : 24,
+            "versetDebut" : 17,
+            "versetFin" : 27
+          },
+          "versets" : 11
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 48,
+            "chapitreFin" : 48,
+            "livre" : 24,
+            "versetDebut" : 28,
+            "versetFin" : 33
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 48,
+            "chapitreFin" : 48,
+            "livre" : 24,
+            "versetDebut" : 34,
+            "versetFin" : 39
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 48,
+            "chapitreFin" : 48,
+            "livre" : 24,
+            "versetDebut" : 40,
+            "versetFin" : 47
+          },
+          "versets" : 8
+        }
+      ],
+      "livre" : "Jérémie",
+      "lundi" : "2026-10-26",
+      "plage" : {
+        "chapitreDebut" : 47,
+        "chapitreFin" : 48,
+        "livre" : 24,
+        "versetDebut" : 1,
+        "versetFin" : 47
+      },
+      "titre" : "Jérémie 47-48"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 49,
+            "chapitreFin" : 49,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 12
+          },
+          "versets" : 12
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 49,
+            "chapitreFin" : 49,
+            "livre" : 24,
+            "versetDebut" : 13,
+            "versetFin" : 24
+          },
+          "versets" : 12
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 49,
+            "chapitreFin" : 49,
+            "livre" : 24,
+            "versetDebut" : 25,
+            "versetFin" : 39
+          },
+          "versets" : 15
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 50,
+            "chapitreFin" : 50,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 11
+          },
+          "versets" : 11
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 50,
+            "chapitreFin" : 50,
+            "livre" : 24,
+            "versetDebut" : 12,
+            "versetFin" : 23
+          },
+          "versets" : 12
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 50,
+            "chapitreFin" : 50,
+            "livre" : 24,
+            "versetDebut" : 24,
+            "versetFin" : 35
+          },
+          "versets" : 12
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 50,
+            "chapitreFin" : 50,
+            "livre" : 24,
+            "versetDebut" : 36,
+            "versetFin" : 46
+          },
+          "versets" : 11
+        }
+      ],
+      "livre" : "Jérémie",
+      "lundi" : "2026-11-02",
+      "plage" : {
+        "chapitreDebut" : 49,
+        "chapitreFin" : 50,
+        "livre" : 24,
+        "versetDebut" : 1,
+        "versetFin" : 46
+      },
+      "titre" : "Jérémie 49-50"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 51,
+            "chapitreFin" : 51,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 16
+          },
+          "versets" : 16
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 51,
+            "chapitreFin" : 51,
+            "livre" : 24,
+            "versetDebut" : 17,
+            "versetFin" : 32
+          },
+          "versets" : 16
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 51,
+            "chapitreFin" : 51,
+            "livre" : 24,
+            "versetDebut" : 33,
+            "versetFin" : 48
+          },
+          "versets" : 16
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 51,
+            "chapitreFin" : 51,
+            "livre" : 24,
+            "versetDebut" : 49,
+            "versetFin" : 64
+          },
+          "versets" : 16
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 52,
+            "chapitreFin" : 52,
+            "livre" : 24,
+            "versetDebut" : 1,
+            "versetFin" : 11
+          },
+          "versets" : 11
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 52,
+            "chapitreFin" : 52,
+            "livre" : 24,
+            "versetDebut" : 12,
+            "versetFin" : 21
+          },
+          "versets" : 10
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 52,
+            "chapitreFin" : 52,
+            "livre" : 24,
+            "versetDebut" : 22,
+            "versetFin" : 34
+          },
+          "versets" : 13
+        }
+      ],
+      "livre" : "Jérémie",
+      "lundi" : "2026-11-09",
+      "plage" : {
+        "chapitreDebut" : 51,
+        "chapitreFin" : 52,
+        "livre" : 24,
+        "versetDebut" : 1,
+        "versetFin" : 34
+      },
+      "titre" : "Jérémie 51-52"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 1,
+            "chapitreFin" : 1,
+            "livre" : 25,
+            "versetDebut" : 1,
+            "versetFin" : 7
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 1,
+            "chapitreFin" : 1,
+            "livre" : 25,
+            "versetDebut" : 8,
+            "versetFin" : 14
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 1,
+            "chapitreFin" : 1,
+            "livre" : 25,
+            "versetDebut" : 15,
+            "versetFin" : 22
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 2,
+            "chapitreFin" : 2,
+            "livre" : 25,
+            "versetDebut" : 1,
+            "versetFin" : 6
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 2,
+            "chapitreFin" : 2,
+            "livre" : 25,
+            "versetDebut" : 7,
+            "versetFin" : 11
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 2,
+            "chapitreFin" : 2,
+            "livre" : 25,
+            "versetDebut" : 12,
+            "versetFin" : 16
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 2,
+            "chapitreFin" : 2,
+            "livre" : 25,
+            "versetDebut" : 17,
+            "versetFin" : 22
+          },
+          "versets" : 6
+        }
+      ],
+      "livre" : "Lamentations",
+      "lundi" : "2026-11-16",
+      "plage" : {
+        "chapitreDebut" : 1,
+        "chapitreFin" : 2,
+        "livre" : 25,
+        "versetDebut" : 1,
+        "versetFin" : 22
+      },
+      "titre" : "Lamentations 1-2"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 3,
+            "chapitreFin" : 3,
+            "livre" : 25,
+            "versetDebut" : 1,
+            "versetFin" : 16
+          },
+          "versets" : 16
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 3,
+            "chapitreFin" : 3,
+            "livre" : 25,
+            "versetDebut" : 17,
+            "versetFin" : 33
+          },
+          "versets" : 17
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 3,
+            "chapitreFin" : 3,
+            "livre" : 25,
+            "versetDebut" : 34,
+            "versetFin" : 50
+          },
+          "versets" : 17
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 3,
+            "chapitreFin" : 3,
+            "livre" : 25,
+            "versetDebut" : 51,
+            "versetFin" : 66
+          },
+          "versets" : 16
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 4,
+            "chapitreFin" : 4,
+            "livre" : 25,
+            "versetDebut" : 1,
+            "versetFin" : 12
+          },
+          "versets" : 12
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 4,
+            "chapitreFin" : 4,
+            "livre" : 25,
+            "versetDebut" : 13,
+            "versetFin" : 22
+          },
+          "versets" : 10
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 5,
+            "chapitreFin" : 5,
+            "livre" : 25,
+            "versetDebut" : 1,
+            "versetFin" : 22
+          },
+          "versets" : 22
+        }
+      ],
+      "livre" : "Lamentations",
+      "lundi" : "2026-11-23",
+      "plage" : {
+        "chapitreDebut" : 3,
+        "chapitreFin" : 5,
+        "livre" : 25,
+        "versetDebut" : 1,
+        "versetFin" : 22
+      },
+      "titre" : "Lamentations 3-5"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 1,
+            "chapitreFin" : 1,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 7
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 1,
+            "chapitreFin" : 1,
+            "livre" : 26,
+            "versetDebut" : 8,
+            "versetFin" : 14
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 1,
+            "chapitreFin" : 1,
+            "livre" : 26,
+            "versetDebut" : 15,
+            "versetFin" : 20
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 1,
+            "chapitreFin" : 1,
+            "livre" : 26,
+            "versetDebut" : 21,
+            "versetFin" : 24
+          },
+          "versets" : 4
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 1,
+            "chapitreFin" : 1,
+            "livre" : 26,
+            "versetDebut" : 25,
+            "versetFin" : 28
+          },
+          "versets" : 4
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 2,
+            "chapitreFin" : 2,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 5
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 2,
+            "chapitreFin" : 2,
+            "livre" : 26,
+            "versetDebut" : 6,
+            "versetFin" : 10
+          },
+          "versets" : 5
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2026-11-30",
+      "plage" : {
+        "chapitreDebut" : 1,
+        "chapitreFin" : 2,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 10
+      },
+      "titre" : "Ézéchiel 1-2"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 3,
+            "chapitreFin" : 3,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 9
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 3,
+            "chapitreFin" : 3,
+            "livre" : 26,
+            "versetDebut" : 10,
+            "versetFin" : 16
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 3,
+            "chapitreFin" : 3,
+            "livre" : 26,
+            "versetDebut" : 17,
+            "versetFin" : 21
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 3,
+            "chapitreFin" : 3,
+            "livre" : 26,
+            "versetDebut" : 22,
+            "versetFin" : 27
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 4,
+            "chapitreFin" : 4,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 6
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 4,
+            "chapitreFin" : 4,
+            "livre" : 26,
+            "versetDebut" : 7,
+            "versetFin" : 12
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 4,
+            "chapitreFin" : 4,
+            "livre" : 26,
+            "versetDebut" : 13,
+            "versetFin" : 17
+          },
+          "versets" : 5
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2026-12-07",
+      "plage" : {
+        "chapitreDebut" : 3,
+        "chapitreFin" : 4,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 17
+      },
+      "titre" : "Ézéchiel 3-4"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 5,
+            "chapitreFin" : 5,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 4
+          },
+          "versets" : 4
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 5,
+            "chapitreFin" : 5,
+            "livre" : 26,
+            "versetDebut" : 5,
+            "versetFin" : 9
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 5,
+            "chapitreFin" : 5,
+            "livre" : 26,
+            "versetDebut" : 10,
+            "versetFin" : 13
+          },
+          "versets" : 4
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 5,
+            "chapitreFin" : 5,
+            "livre" : 26,
+            "versetDebut" : 14,
+            "versetFin" : 17
+          },
+          "versets" : 4
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 6,
+            "chapitreFin" : 6,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 7
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 6,
+            "chapitreFin" : 6,
+            "livre" : 26,
+            "versetDebut" : 8,
+            "versetFin" : 11
+          },
+          "versets" : 4
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 6,
+            "chapitreFin" : 6,
+            "livre" : 26,
+            "versetDebut" : 12,
+            "versetFin" : 14
+          },
+          "versets" : 3
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2026-12-14",
+      "plage" : {
+        "chapitreDebut" : 5,
+        "chapitreFin" : 6,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 14
+      },
+      "titre" : "Ézéchiel 5-6"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 7,
+            "chapitreFin" : 7,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 7
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 7,
+            "chapitreFin" : 7,
+            "livre" : 26,
+            "versetDebut" : 8,
+            "versetFin" : 13
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 7,
+            "chapitreFin" : 7,
+            "livre" : 26,
+            "versetDebut" : 14,
+            "versetFin" : 19
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 7,
+            "chapitreFin" : 7,
+            "livre" : 26,
+            "versetDebut" : 20,
+            "versetFin" : 27
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 8,
+            "chapitreFin" : 8,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 5
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 8,
+            "chapitreFin" : 8,
+            "livre" : 26,
+            "versetDebut" : 6,
+            "versetFin" : 12
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 8,
+            "chapitreFin" : 8,
+            "livre" : 26,
+            "versetDebut" : 13,
+            "versetFin" : 18
+          },
+          "versets" : 6
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2026-12-21",
+      "plage" : {
+        "chapitreDebut" : 7,
+        "chapitreFin" : 8,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 18
+      },
+      "titre" : "Ézéchiel 7-8"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 9,
+            "chapitreFin" : 9,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 3
+          },
+          "versets" : 3
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 9,
+            "chapitreFin" : 9,
+            "livre" : 26,
+            "versetDebut" : 4,
+            "versetFin" : 7
+          },
+          "versets" : 4
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 9,
+            "chapitreFin" : 9,
+            "livre" : 26,
+            "versetDebut" : 8,
+            "versetFin" : 11
+          },
+          "versets" : 4
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 10,
+            "chapitreFin" : 10,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 5
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 10,
+            "chapitreFin" : 10,
+            "livre" : 26,
+            "versetDebut" : 6,
+            "versetFin" : 10
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 10,
+            "chapitreFin" : 10,
+            "livre" : 26,
+            "versetDebut" : 11,
+            "versetFin" : 16
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 10,
+            "chapitreFin" : 10,
+            "livre" : 26,
+            "versetDebut" : 17,
+            "versetFin" : 22
+          },
+          "versets" : 6
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2026-12-28",
+      "plage" : {
+        "chapitreDebut" : 9,
+        "chapitreFin" : 10,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 22
+      },
+      "titre" : "Ézéchiel 9-10"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 11,
+            "chapitreFin" : 11,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 7
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 11,
+            "chapitreFin" : 11,
+            "livre" : 26,
+            "versetDebut" : 8,
+            "versetFin" : 16
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 11,
+            "chapitreFin" : 11,
+            "livre" : 26,
+            "versetDebut" : 17,
+            "versetFin" : 25
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 12,
+            "chapitreFin" : 12,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 6
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 12,
+            "chapitreFin" : 12,
+            "livre" : 26,
+            "versetDebut" : 7,
+            "versetFin" : 13
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 12,
+            "chapitreFin" : 12,
+            "livre" : 26,
+            "versetDebut" : 14,
+            "versetFin" : 20
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 12,
+            "chapitreFin" : 12,
+            "livre" : 26,
+            "versetDebut" : 21,
+            "versetFin" : 28
+          },
+          "versets" : 8
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2027-01-04",
+      "plage" : {
+        "chapitreDebut" : 11,
+        "chapitreFin" : 12,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 28
+      },
+      "titre" : "Ézéchiel 11-12"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 13,
+            "chapitreFin" : 13,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 7
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 13,
+            "chapitreFin" : 13,
+            "livre" : 26,
+            "versetDebut" : 8,
+            "versetFin" : 13
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 13,
+            "chapitreFin" : 13,
+            "livre" : 26,
+            "versetDebut" : 14,
+            "versetFin" : 18
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 13,
+            "chapitreFin" : 13,
+            "livre" : 26,
+            "versetDebut" : 19,
+            "versetFin" : 23
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 14,
+            "chapitreFin" : 14,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 8
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 14,
+            "chapitreFin" : 14,
+            "livre" : 26,
+            "versetDebut" : 9,
+            "versetFin" : 16
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 14,
+            "chapitreFin" : 14,
+            "livre" : 26,
+            "versetDebut" : 17,
+            "versetFin" : 23
+          },
+          "versets" : 7
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2027-01-11",
+      "plage" : {
+        "chapitreDebut" : 13,
+        "chapitreFin" : 14,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 23
+      },
+      "titre" : "Ézéchiel 13-14"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 15,
+            "chapitreFin" : 15,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 8
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 16,
+            "chapitreFin" : 16,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 9
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 16,
+            "chapitreFin" : 16,
+            "livre" : 26,
+            "versetDebut" : 10,
+            "versetFin" : 19
+          },
+          "versets" : 10
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 16,
+            "chapitreFin" : 16,
+            "livre" : 26,
+            "versetDebut" : 20,
+            "versetFin" : 30
+          },
+          "versets" : 11
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 16,
+            "chapitreFin" : 16,
+            "livre" : 26,
+            "versetDebut" : 31,
+            "versetFin" : 42
+          },
+          "versets" : 12
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 16,
+            "chapitreFin" : 16,
+            "livre" : 26,
+            "versetDebut" : 43,
+            "versetFin" : 51
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 16,
+            "chapitreFin" : 16,
+            "livre" : 26,
+            "versetDebut" : 52,
+            "versetFin" : 63
+          },
+          "versets" : 12
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2027-01-18",
+      "plage" : {
+        "chapitreDebut" : 15,
+        "chapitreFin" : 16,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 63
+      },
+      "titre" : "Ézéchiel 15-16"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 17,
+            "chapitreFin" : 17,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 9
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 17,
+            "chapitreFin" : 17,
+            "livre" : 26,
+            "versetDebut" : 10,
+            "versetFin" : 17
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 17,
+            "chapitreFin" : 17,
+            "livre" : 26,
+            "versetDebut" : 18,
+            "versetFin" : 24
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 18,
+            "chapitreFin" : 18,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 9
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 18,
+            "chapitreFin" : 18,
+            "livre" : 26,
+            "versetDebut" : 10,
+            "versetFin" : 18
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 18,
+            "chapitreFin" : 18,
+            "livre" : 26,
+            "versetDebut" : 19,
+            "versetFin" : 24
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 18,
+            "chapitreFin" : 18,
+            "livre" : 26,
+            "versetDebut" : 25,
+            "versetFin" : 32
+          },
+          "versets" : 8
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2027-01-25",
+      "plage" : {
+        "chapitreDebut" : 17,
+        "chapitreFin" : 18,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 32
+      },
+      "titre" : "Ézéchiel 17-18"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 19,
+            "chapitreFin" : 19,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 14
+          },
+          "versets" : 14
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 20,
+            "chapitreFin" : 20,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 8
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 20,
+            "chapitreFin" : 20,
+            "livre" : 26,
+            "versetDebut" : 9,
+            "versetFin" : 16
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 20,
+            "chapitreFin" : 20,
+            "livre" : 26,
+            "versetDebut" : 17,
+            "versetFin" : 26
+          },
+          "versets" : 10
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 20,
+            "chapitreFin" : 20,
+            "livre" : 26,
+            "versetDebut" : 27,
+            "versetFin" : 32
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 20,
+            "chapitreFin" : 20,
+            "livre" : 26,
+            "versetDebut" : 33,
+            "versetFin" : 40
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 20,
+            "chapitreFin" : 20,
+            "livre" : 26,
+            "versetDebut" : 41,
+            "versetFin" : 49
+          },
+          "versets" : 9
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2027-02-01",
+      "plage" : {
+        "chapitreDebut" : 19,
+        "chapitreFin" : 20,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 49
+      },
+      "titre" : "Ézéchiel 19-20"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 21,
+            "chapitreFin" : 21,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 9
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 21,
+            "chapitreFin" : 21,
+            "livre" : 26,
+            "versetDebut" : 10,
+            "versetFin" : 17
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 21,
+            "chapitreFin" : 21,
+            "livre" : 26,
+            "versetDebut" : 18,
+            "versetFin" : 24
+          },
+          "versets" : 7
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 21,
+            "chapitreFin" : 21,
+            "livre" : 26,
+            "versetDebut" : 25,
+            "versetFin" : 32
+          },
+          "versets" : 8
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 22,
+            "chapitreFin" : 22,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 12
+          },
+          "versets" : 12
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 22,
+            "chapitreFin" : 22,
+            "livre" : 26,
+            "versetDebut" : 13,
+            "versetFin" : 22
+          },
+          "versets" : 10
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 22,
+            "chapitreFin" : 22,
+            "livre" : 26,
+            "versetDebut" : 23,
+            "versetFin" : 31
+          },
+          "versets" : 9
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2027-02-08",
+      "plage" : {
+        "chapitreDebut" : 21,
+        "chapitreFin" : 22,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 31
+      },
+      "titre" : "Ézéchiel 21-22"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 23,
+            "chapitreFin" : 23,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 12
+          },
+          "versets" : 12
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 23,
+            "chapitreFin" : 23,
+            "livre" : 26,
+            "versetDebut" : 13,
+            "versetFin" : 22
+          },
+          "versets" : 10
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 23,
+            "chapitreFin" : 23,
+            "livre" : 26,
+            "versetDebut" : 23,
+            "versetFin" : 31
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 23,
+            "chapitreFin" : 23,
+            "livre" : 26,
+            "versetDebut" : 32,
+            "versetFin" : 40
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 23,
+            "chapitreFin" : 23,
+            "livre" : 26,
+            "versetDebut" : 41,
+            "versetFin" : 49
+          },
+          "versets" : 9
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 24,
+            "chapitreFin" : 24,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 14
+          },
+          "versets" : 14
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 24,
+            "chapitreFin" : 24,
+            "livre" : 26,
+            "versetDebut" : 15,
+            "versetFin" : 27
+          },
+          "versets" : 13
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2027-02-15",
+      "plage" : {
+        "chapitreDebut" : 23,
+        "chapitreFin" : 24,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 27
+      },
+      "titre" : "Ézéchiel 23-24"
+    },
+    {
+      "jours" : [
+        {
+          "plage" : {
+            "chapitreDebut" : 25,
+            "chapitreFin" : 25,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 6
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 25,
+            "chapitreFin" : 25,
+            "livre" : 26,
+            "versetDebut" : 7,
+            "versetFin" : 12
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 25,
+            "chapitreFin" : 25,
+            "livre" : 26,
+            "versetDebut" : 13,
+            "versetFin" : 17
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 26,
+            "chapitreFin" : 26,
+            "livre" : 26,
+            "versetDebut" : 1,
+            "versetFin" : 6
+          },
+          "versets" : 6
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 26,
+            "chapitreFin" : 26,
+            "livre" : 26,
+            "versetDebut" : 7,
+            "versetFin" : 11
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 26,
+            "chapitreFin" : 26,
+            "livre" : 26,
+            "versetDebut" : 12,
+            "versetFin" : 16
+          },
+          "versets" : 5
+        },
+        {
+          "plage" : {
+            "chapitreDebut" : 26,
+            "chapitreFin" : 26,
+            "livre" : 26,
+            "versetDebut" : 17,
+            "versetFin" : 21
+          },
+          "versets" : 5
+        }
+      ],
+      "livre" : "Ézéchiel",
+      "lundi" : "2027-02-22",
+      "plage" : {
+        "chapitreDebut" : 25,
+        "chapitreFin" : 26,
+        "livre" : 26,
+        "versetDebut" : 1,
+        "versetFin" : 21
+      },
+      "titre" : "Ézéchiel 25-26"
+    }
+  ]
+}
